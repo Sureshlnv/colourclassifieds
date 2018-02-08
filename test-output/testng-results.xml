@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3719" started-at="2018-02-06T18:09:50Z" finished-at="2018-02-06T18:09:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3719" started-at="2018-02-06T18:09:50Z" finished-at="2018-02-06T18:09:54Z">
+      <class name="com.chiselon.classifieds.utililites.Test_1">
+        <test-method status="PASS" signature="a()[pri:0, instance:com.chiselon.classifieds.utililites.Test_1@51565ec2]" name="a" duration-ms="3689" started-at="2018-02-06T23:39:50Z" finished-at="2018-02-06T23:39:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- com.chiselon.classifieds.utililites.Test_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
